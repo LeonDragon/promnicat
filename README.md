@@ -1,4 +1,4 @@
-#Clone for further processing JSON file in BPMAI repository
+# Clone for further processing JSON file in BPMAI repository
 
 
 # promnicat
