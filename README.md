@@ -1,5 +1,10 @@
+#Clone for further processing JSON file in BPMAI repository
+
+
 # promnicat
 Automatically exported from code.google.com/p/promnicat
+
+
 
 Model Collection of the Business Process Management Academic Initiative
  Weske, Mathias; Decker, Gero;  Dumas, Marlon;  La Rosa, Marcello;  Mendling, Jan;  Reijers, Hajo A.
